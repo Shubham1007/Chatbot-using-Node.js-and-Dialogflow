@@ -12,7 +12,6 @@ Chatbot using Node.js and Dialogflow
 # Installation and Running Application
 <b>
 1) npm install </br>
-2)Create account in di
 2) node index.js
   </b>
 
